@@ -5,6 +5,7 @@ Hello,
 I am submitting my project “SmartScore: Predicting Student Performance with ML” on this GitHub repository as part of our Machine Learning coursework.
 
 This project uses:
+
 ✅ Linear Regression to predict final exam scores based on study time.
 ✅ Logistic Regression to predict pass/fail using attendance and study time.
 ✅ K-Means Clustering to group students based on study habits and attendance patterns.
